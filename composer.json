@@ -6,8 +6,6 @@
   "require": {},
   "require-dev": {},
   "autoload": {
-    "psr-4": {
-      "ptahdunbar\\Utils\\": "src"
-    }
+    "files": ["src/functions.php"]
   }
 }
