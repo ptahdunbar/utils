@@ -1,0 +1,13 @@
+{
+  "name": "ptahdunbar/utils",
+  "description": "Check if the server is on SSL",
+  "license": "GPL+2",
+  "keywords": ["ssl"],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "ptahdunbar\\Utils\\": "src"
+    }
+  }
+}
